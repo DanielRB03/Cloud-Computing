@@ -11,3 +11,4 @@ Este utilizar una red, la cual suele ser internet, para conectar a los usuarios 
 Hay un servidor central que gestiona toda la comunicación entre los dispositivos y los servidores de los clientes, para facilitar
  el intercambio de datos.
 
+![cloud-computing](/img/computing.png)
