@@ -18,4 +18,4 @@ incluyen autonomía de información reducida, dependencia de la red,  uso limita
 A pesar de estos inconvenientes, considerando la importancia del software y las características de la nube, los numerosos **beneficios de la computación en la nube superan con creces los inconvenientes** en la implementación del sistema.
 
 
-![fotonuve](img/imagen2.jpg)
+![imagen2](/img/imagen2.jpg)
