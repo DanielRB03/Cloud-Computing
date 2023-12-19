@@ -1,14 +1,9 @@
-## Cloud computing 
-es la disponibilidad bajo demanda de recursos de computación como servicios a través de Internet. Esta tecnología evita que las empresas tengan que encargarse de aprovisionar, configurar o gestionar los recursos
-y permite que paguen únicamente por los que usen.
+## Tipos de cloud computing
 
-Hay tres modelos diferentes de despliegue de cloud computing: **nube pública, nube privada y nube híbrida.** 
+**Hay tres tipos principales de modelos de servicios** de cloud computing que puedes seleccionar según el nivel de control, la flexibilidad y la gestión que necesite tu empresa: 
 
-Las **nubes públicas** las ejecutan proveedores de servicios en la nube externos. Ofrecen recursos de computación, de almacenamiento y de red por Internet, 
-lo que permite a las empresas acceder a recursos bajo demanda compartidos en función de sus requisitos únicos y de sus objetivos empresariales.
+**La infraestructura como servicio (IaaS)** ofrece acceso bajo demanda a servicios de infraestructura informática, como computación, almacenamiento, redes y virtualización. Ofrece el máximo nivel de control sobre todos tus recursos de TI y se asemeja más a los recursos informáticos tradicionales.
 
-Las **nubes privadas** se crean, gestionan y pertenecen a una sola organización, y se alojan de forma privada en sus propios centros de datos,
-lo que comúnmente se denomina "on-premise". Proporcionan más control, seguridad y gestión de datos, al mismo tiempo que permiten que los usuarios internos se beneficien de un conjunto compartido de recursos de computación, almacenamiento y redes.
+**Plataforma como servicio (PaaS) (PAA) )** ofrece todos los recursos de hardware y software necesarios para desarrollar aplicaciones en la nube. Con PaaS, las empresas pueden centrarse por completo en el desarrollo de aplicaciones sin la carga que supone gestionar y mantener la infraestructura subyacente.
 
-Las **nubes híbridas** combinan modelos de nube pública y privada con los que las empresas pueden aprovechar los servicios de nube pública 
-y mantener las funciones de cumplimiento y seguridad habituales. en arquitecturas de nube privada.
+**El software como servicio (SaaS)** proporciona una pila de aplicaciones completa como servicio, desde la infraestructura subyacente hasta el mantenimiento y las actualizaciones del propio software de la aplicación. Una solución de SaaS a menudo es una aplicación de usuario final en la que el servicio y la infraestructura los gestiona y mantiene el proveedor de servicios en la nube.
