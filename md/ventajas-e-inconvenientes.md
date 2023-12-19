@@ -11,7 +11,7 @@ La **seguridad** es sólida, los riesgos son relativamente bajos y contamos con 
 Es **rentable** Sea cual sea el modelo de servicio de cloud computing que adopten, las empresas solo pagan por los recursos de computación que utilizan.
 
 
-## Las desventajas de la computación en la nube
+## las desventajas de la computación en la nube
 
 incluyen autonomía de información reducida, dependencia de la red,  uso limitado de versiones  de software anteriores y  pérdida de autonomía del proveedor después del primer pago.
 
