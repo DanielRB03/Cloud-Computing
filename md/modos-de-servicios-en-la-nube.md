@@ -24,3 +24,18 @@ Ofrece un **valor estratégico** Dado que los proveedores de servicios en la nub
 Es **seguro** Las empresas suelen preguntarse cuáles son los riesgos de seguridad de cloud computing. Se suele admitir que los riesgos son relativamente bajos y que la seguridad de cloud computing es más sólida que la de los centros de datos de las empresas, debido a la profundidad y amplitud de los mecanismos de seguridad que aplican los proveedores de servicios en la nube. Además, sus equipos de seguridad están formados por expertos en el campo.
 
 Es **rentable** Sea cual sea el modelo de servicio de cloud computing que adopten, las empresas solo pagan por los recursos de computación que utilizan. No necesitan sobrecargar la capacidad de los centros de datos para gestionar los picos inesperados en la demanda o su crecimiento empresarial. Además, su personal de TI puede centrarse en iniciativas más estratégicas.
+
+## ¿Cuáles son las desventajas de cloud computing?
+ 
+Estas desventajas deben ser tenidas en cuenta, ya que son parte de los riesgos de cloud computing:
+
+-Menor control sobre la información.
+
+-Dependencia completa del funcionamiento de la red, de sus eventuales irregularidades.
+
+-El modelo SaaS, restringe el uso de versiones anteriores de software.
+
+-Pérdida de autonomía frente al proveedor en la nube, después de efectuar un pago inicial por el uso de un paquete 
+ tradicional.
+ 
+**Claramente son muchas más las ventajas de cloud computing que las desventajas de cloud computing** en la implementación del sistema teniendo en cuenta las características de la nube y la importancia del software.
