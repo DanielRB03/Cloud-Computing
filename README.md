@@ -1,12 +1,12 @@
-# Cloud-Computing
+# Cloud-Computing :blush::blush:
 
 ![img](/img/cloud.jpg)
 
-## Índice
-### ***[1.-Introducción](/md/introduccion.md)***
-### ***[2.-Definición de Cloud Computing](/md/definicion.md)***
-### ***[3.-Características de Cloud Computing](/md/caracteristicas.md)***
-### ***[4.-Tipos de nubes](/md/tipos_de_nubes.md)***
+## Índice :smirk:
+### ***[1.-Introducción](/md/introduccion.md)*** :unamused:
+### ***[2.-Definición de Cloud Computing](/md/definicion.md)*** :scream:
+### ***[3.-Características de Cloud Computing](/md/caracteristicas.md)*** :sunglasses:
+### ***[4.-Tipos de nubes](/md/tipos_de_nubes.md)*** :smiling_imp:
 ### ***[5.-Modos de servicios en la nube](/md/modos-de-servicios-en-la-nube.md)***
 ### ***[6.-Ventajas e inconvenientes de Cloud Computing ](/md/ventajas-e-inconvenientes.md)***
 
@@ -15,5 +15,7 @@
 
 ## Autores
 Daniel Ruiz Barrenas
+
+:two_men_holding_hands:
 
 Moisés Moreno Moreno
