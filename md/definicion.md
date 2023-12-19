@@ -11,4 +11,11 @@ Este utilizar una red, la cual suele ser internet, para conectar a los usuarios 
 Hay un servidor central que gestiona toda la comunicación entre los dispositivos y los servidores de los clientes, para facilitar
  el intercambio de datos.
 
+## ¿Para que sirve?
+* Escalado de infraestructuras
+* Recuperación tras fallos
+* Almacenamiento de datos
+* Desarrollo de aplicaciones
+* Análisis de Big Data
+
 ![cloud-computing](/img/computing.png)
