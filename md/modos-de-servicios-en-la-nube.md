@@ -7,3 +7,4 @@
 **Plataforma como servicio (PaaS) (PAA) )** ofrece todos los recursos de hardware y software necesarios para desarrollar aplicaciones en la nube. Con PaaS, las empresas pueden centrarse por completo en el desarrollo de aplicaciones sin la carga que supone gestionar y mantener la infraestructura subyacente.
 
 **El software como servicio (SaaS)** proporciona una pila de aplicaciones completa como servicio, desde la infraestructura subyacente hasta el mantenimiento y las actualizaciones del propio software de la aplicación. Una solución de SaaS a menudo es una aplicación de usuario final en la que el servicio y la infraestructura los gestiona y mantiene el proveedor de servicios en la nube.
+![imagen1.png](img/1.png)
