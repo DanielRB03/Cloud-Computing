@@ -9,3 +9,5 @@ Si tu empresa hace alguna de estas cosas, puede que le venga bien Cloud Computin
 * Baja utilización de los recursos de infraestructura disponibles
 * Grandes volúmenes de datos que sobrepasan tus recursos de almacenamiento on‑premise
 * Tiempos de respuesta lentos con la infraestructura on‑premise
+
+![caracteristicas](/img/caracteristicas.jpeg)
